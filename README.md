@@ -2,34 +2,38 @@
 
 ### Data Analyst | Business Analyst | Business Intelligence
 
-I am an aspiring Data Analyst / Business Analyst focused on transforming
-raw data into meaningful business insights and data-driven decisions.
+I am an aspiring **Data Analyst / Business Analyst / Business Intelligence professional** focused on transforming raw data into meaningful business insights and data-driven decisions.
 
-I enjoy working with SQL, Power BI, Excel, Python, and data visualization
-to solve business problems related to sales, customers, inventory,
-profitability, and operations.
+I enjoy working with **SQL, Power BI, Excel, Python, DAX, Power Query, and data visualization** to solve business problems across sales, customers, inventory, profitability, operations, and healthcare analytics.
 
 ---
 
 ## 🧰 Skills & Tools
 
-### Data Analysis
+### 📊 Data Analysis
+
 - SQL
 - Python
-- Excel
+- Microsoft Excel
 - Data Cleaning
 - Exploratory Data Analysis
 - Statistical Analysis
+- Data Visualization
+- Business Insights
 
-### Business Intelligence
+### 📈 Business Intelligence
+
 - Power BI
 - DAX
 - Power Query
+- Power Pivot
 - Data Modeling
 - KPI Development
 - Dashboard Development
+- Interactive Reporting
 
-### SQL
+### 🗄️ SQL
+
 - Joins
 - CTEs
 - Subqueries
@@ -37,37 +41,94 @@ profitability, and operations.
 - Aggregations
 - CASE Statements
 - Date & Time Analysis
-- Customer & Sales Analysis
+- Customer Analysis
+- Sales Analysis
+- Inventory Analysis
 
-### Business Analysis
+### 💼 Business Analysis
+
 - Business Problem Definition
+- Requirement Gathering
 - KPI Analysis
 - Trend Analysis
 - Customer Analysis
 - Sales & Profitability Analysis
 - Inventory Analysis
+- Operational Analysis
 - Business Recommendations
+
+### 🏗️ Data Engineering
+
+- SQL Server
+- SSIS
+- ETL
+- Data Warehousing
+- Fact & Dimension Tables
+- Star Schema
+- Data Transformation
+- Data Validation
+
+### 📐 Statistics
+
+- Z-Test
+- Paired t-Test
+- Independent t-Test
+- One-Way ANOVA
+- Hypothesis Testing
+- Statistical Interpretation
 
 ---
 
 # 📊 Featured Projects
 
+## 🏥 Hospital Emergency Room Analytics Dashboard
+
+**Microsoft Excel | Power Query | Power Pivot | DAX**
+
+Built an interactive Hospital Emergency Room dashboard to analyze patient volume, waiting time, patient satisfaction, admission outcomes, timeliness, demographics, and department referrals.
+
+### Key Areas
+
+- Patient volume analysis
+- Average waiting time
+- Patient satisfaction
+- Admission analysis
+- Patient attendance / timeliness
+- Age-group analysis
+- Gender analysis
+- Department referrals
+- Daily performance trends
+- Interactive year and month filters
+- Power Query data preparation
+- Power Pivot data modeling
+- DAX calculations
+
+### Business Focus
+
+The project transforms raw emergency-room data into a management-ready reporting solution to help identify operational trends and areas requiring attention.
+
+**[View Project](https://github.com/ANKITSINGH0406/hospital-emergency-room-dashboard)**
+
+---
+
 ## 🏆 Retail Vendor Performance & Inventory Optimization
 
 **Python | SQL | Power BI**
 
-Analyzed vendor performance, profitability, inventory turnover,
-purchasing patterns, and supplier concentration.
+Analyzed vendor performance, profitability, inventory turnover, purchasing patterns, supplier concentration, and bulk purchasing behavior.
 
 ### Key Areas
+
 - Vendor performance
 - Profitability analysis
 - Inventory optimization
 - Bulk purchasing analysis
 - Pareto analysis
 - Statistical validation
+- Supplier concentration
+- Business recommendations
 
-[View Project](https://github.com/ANKITSINGH0406/Retail-Vendor-Performance-Inventory-Optimization-Analysis)
+**[View Project](https://github.com/ANKITSINGH0406/Retail-Vendor-Performance-Inventory-Optimization-Analysis)**
 
 ---
 
@@ -75,19 +136,21 @@ purchasing patterns, and supplier concentration.
 
 **Power BI | DAX | Power Query | Data Modeling**
 
-Built an interactive sales dashboard to analyze revenue,
-orders, products, customers, and monthly sales trends.
+Built an interactive sales analytics dashboard to analyze revenue, orders, products, customers, and monthly sales trends.
 
 ### Key Areas
+
 - Sales KPIs
+- Revenue analysis
 - Monthly trends
 - Product analysis
 - Customer analysis
 - Star schema
 - DAX measures
+- Power Query
 - Interactive dashboard
 
-[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Sales-Dashboard)
+**[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Sales-Dashboard)**
 
 ---
 
@@ -95,17 +158,19 @@ orders, products, customers, and monthly sales trends.
 
 **PostgreSQL | SQL**
 
-Performed end-to-end SQL analysis of e-commerce inventory data.
+Performed end-to-end SQL analysis of e-commerce inventory data to identify pricing, discount, stock, and revenue opportunities.
 
 ### Key Areas
+
 - Data cleaning
 - Inventory analysis
 - Pricing analysis
 - Discount analysis
 - Stock availability
-- Revenue opportunities
+- Revenue analysis
+- Business opportunities
 
-[View Project](https://github.com/ANKITSINGH0406/zepto_sql_data_analysis_project)
+**[View Project](https://github.com/ANKITSINGH0406/zepto_sql_data_analysis_project)**
 
 ---
 
@@ -113,10 +178,10 @@ Performed end-to-end SQL analysis of e-commerce inventory data.
 
 **SQL**
 
-Analyzed customer purchasing behavior, restaurant visits,
-menu preferences, membership behavior, and loyalty points.
+Analyzed customer purchasing behavior, restaurant visits, menu preferences, membership behavior, and loyalty points.
 
 ### SQL Concepts
+
 - JOINs
 - CTEs
 - CASE WHEN
@@ -125,8 +190,9 @@ menu preferences, membership behavior, and loyalty points.
 - Window Functions
 - Aggregations
 - Date Analysis
+- Customer Segmentation
 
-[View Project](https://github.com/ANKITSINGH0406/dannys-diner-sql-case-study)
+**[View Project](https://github.com/ANKITSINGH0406/dannys-diner-sql-case-study)**
 
 ---
 
@@ -134,47 +200,146 @@ menu preferences, membership behavior, and loyalty points.
 
 **SQL Server | SSIS | Data Warehousing**
 
-Built a dimensional data warehouse and ETL pipeline using
-Northwind data.
+Designed and implemented a dimensional data warehouse and ETL pipeline using Northwind data.
 
 ### Key Areas
+
 - Fact & Dimension Tables
 - Star Schema
 - ETL
 - Data Transformation
 - SQL Validation
 - Data Warehouse Design
+- Data Integration
 
-[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Data-Warehouse-ETL)
+**[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Data-Warehouse-ETL)**
 
 ---
 
 ## 📊 Statistical Analysis Using Excel
 
-**Excel | Statistics**
+**Microsoft Excel | Statistics**
 
-Applied statistical hypothesis testing using Excel.
+Applied statistical hypothesis-testing techniques using Excel to evaluate business and analytical scenarios.
 
 ### Techniques
+
 - Z-Test
 - Paired t-Test
 - Independent t-Test
 - One-Way ANOVA
+- Hypothesis Testing
+- Statistical Interpretation
 
-[View Project](https://github.com/ANKITSINGH0406/statistical-tests-excel)
+**[View Project](https://github.com/ANKITSINGH0406/statistical-tests-excel)**
+
+---
+
+# 🗄️ SQL & Data Analysis Projects
+
+## 📞 Customer Churn Analysis – Telecom
+
+**Python | Jupyter Notebook | Data Analysis**
+
+Analyzed telecom customer churn to identify customer behavior and factors associated with churn.
+
+### Key Areas
+
+- Customer churn
+- Customer behavior
+- Exploratory analysis
+- Data visualization
+- Business insights
+
+**[View Project](https://github.com/ANKITSINGH0406/CUSTOMER-CHURN-OF-TELECOM)**
+
+---
+
+## 🌍 Global Layoffs SQL Data Analysis
+
+**SQL**
+
+Performed exploratory analysis of a global layoffs dataset to identify trends across industries, countries, companies, and time periods.
+
+### Key Areas
+
+- Industry analysis
+- Country analysis
+- Company-level analysis
+- Rolling layoffs trends
+- Time-series analysis
+- Exploratory Data Analysis
+
+**[View Project](https://github.com/ANKITSINGH0406/global-layoffs-sql-data-analysis)**
+
+---
+
+## 🧹 World Layoffs SQL Data Cleaning
+
+**MySQL | SQL**
+
+Performed data cleaning and preparation on a global layoffs dataset before analytical processing.
+
+### Key Areas
+
+- Duplicate removal
+- Data standardization
+- NULL handling
+- Data validation
+- Data preparation
+- SQL transformations
+
+**[View Project](https://github.com/ANKITSINGH0406/world_layoffs_data_sql_cleaning)**
+
+---
+
+# 📱 Power BI Projects
+
+## 📊 Mobile Sales Dashboard
+
+**Power BI | Data Visualization**
+
+Built an interactive Power BI dashboard analyzing mobile sales across Indian cities.
+
+### Key Areas
+
+- Sales analysis
+- Transactions
+- Payment methods
+- Customer ratings
+- Monthly sales trends
+- City-level analysis
+- Interactive dashboard
+
+**[View Project](https://github.com/ANKITSINGH0406/PowerBI-Mobile-Sales-Dashboard)**
 
 ---
 
 # 🎯 What I Can Do
 
-✔ Analyze business data using SQL  
-✔ Build interactive Power BI dashboards  
-✔ Create KPI reports  
-✔ Clean and transform datasets  
-✔ Perform customer and sales analysis  
-✔ Analyze profitability and inventory  
-✔ Perform statistical analysis  
-✔ Translate data into business recommendations  
+✔ Analyze business data using SQL
+
+✔ Clean and transform datasets
+
+✔ Build interactive Power BI dashboards
+
+✔ Develop Excel dashboards
+
+✔ Create KPI reports
+
+✔ Build analytical data models
+
+✔ Perform customer and sales analysis
+
+✔ Analyze profitability and inventory
+
+✔ Perform statistical analysis
+
+✔ Identify business trends
+
+✔ Translate data into actionable recommendations
+
+✔ Communicate insights through data visualization
 
 ---
 
@@ -186,8 +351,37 @@ Applied statistical hypothesis testing using Excel.
 - Business Analysis
 - Statistics
 - Data Storytelling
+- Data Modeling
+- Business Intelligence
 
 ---
+
+# 🏆 My Analytics Approach
+
+I follow an end-to-end analytical approach:
+
+```text
+Business Problem
+       ↓
+Requirement Gathering
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+Exploratory Data Analysis
+       ↓
+Data Modeling
+       ↓
+SQL / Python / DAX Analysis
+       ↓
+KPI Development
+       ↓
+Dashboard & Visualization
+       ↓
+Business Insights
+       ↓
+Recommendations
 
 # 📫 Connect With Me
 
