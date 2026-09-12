@@ -235,8 +235,6 @@ Applied statistical hypothesis-testing techniques using Excel to evaluate busine
 
 ---
 
-# 🗄️ SQL & Data Analysis Projects
-
 ## 📞 Customer Churn Analysis – Telecom
 
 **Python | Jupyter Notebook | Data Analysis**
@@ -292,8 +290,6 @@ Performed data cleaning and preparation on a global layoffs dataset before analy
 **[View Project](https://github.com/ANKITSINGH0406/world_layoffs_data_sql_cleaning)**
 
 ---
-
-# 📱 Power BI Projects
 
 ## 📊 Mobile Sales Dashboard
 
