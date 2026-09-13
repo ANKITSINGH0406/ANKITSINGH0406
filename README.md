@@ -81,6 +81,28 @@ I enjoy working with **SQL, Power BI, Excel, Python, DAX, Power Query, and data 
 
 # 📊 Featured Projects
 
+## 🤖 AI Customer Experience Intelligence
+
+**n8n | Google Gemini | PostgreSQL | Supabase **
+
+Built an AI-powered customer feedback intelligence system that automatically
+analyzes customer feedback, identifies sentiment, emotion, root cause,
+priority, churn risk, and customer intent.
+
+### Key Features
+
+- AI-powered customer feedback analysis
+- Sentiment and sentiment scoring
+- Category and root-cause classification
+- Customer churn-risk detection
+- Business risk scoring
+- PostgreSQL data storage
+- Automated high-risk customer email alerts
+- Data validation and cleaning
+- n8n workflow automation
+
+🔗 [View Project](https://github.com/ANKITSINGH0406/ai-customer-feedback-analysis)
+
 ## 🏥 Hospital Emergency Room Analytics Dashboard
 
 **Microsoft Excel | Power Query | Power Pivot | DAX**
