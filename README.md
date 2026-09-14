@@ -1,413 +1,236 @@
-# Hi, I'm Ankit Singh Mahar 👋
+# 👋 Hey, I'm Ankit Singh Mahar
 
-### Data Analyst | Business Analyst | Business Intelligence
+### 🚀 Turning Data Into Decisions | 📊 Analytics | 🤖 AI | 💡 Business Intelligence
 
-I am an aspiring **Data Analyst / Business Analyst / Business Intelligence professional** focused on transforming raw data into meaningful business insights and data-driven decisions.
+> **I don't just analyze data — I turn it into stories, insights, and decisions.**
 
-I enjoy working with **SQL, Power BI, Excel, Python, DAX, Power Query, and data visualization** to solve business problems across sales, customers, inventory, profitability, operations, and healthcare analytics.
+I'm a **Data Analyst | Business Analyst | Business Intelligence enthusiast** passionate about solving real-world business problems through **SQL, Python, Power BI, Excel, Statistics, and AI-powered automation**.
+
+🎓 **B.Sc. Mathematics** → 📚 **MBA — Artificial Intelligence & Data Science**
 
 ---
 
-## 🧰 Skills & Tools
+## ⚡ What I Do
 
-### 📊 Data Analysis
+```text
+        RAW DATA
+            ↓
+      🧹 Clean & Transform
+            ↓
+      🔍 Explore & Analyze
+            ↓
+      📐 Model & Measure
+            ↓
+      📊 Visualize & Explain
+            ↓
+      💡 Generate Insights
+            ↓
+      🎯 Drive Decisions
+```
 
-- SQL
-- Python
-- Microsoft Excel
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- Business Insights
+I enjoy working at the intersection of **data, business, and technology** — where numbers become meaningful answers.
+
+---
+
+# 🧠 My Data Toolkit
+
+### 📊 Analytics
+
+`SQL` `Python` `Pandas` `NumPy` `Excel` `EDA` `Statistics`
 
 ### 📈 Business Intelligence
 
-- Power BI
-- DAX
-- Power Query
-- Power Pivot
-- Data Modeling
-- KPI Development
-- Dashboard Development
-- Interactive Reporting
+`Power BI` `DAX` `Power Query` `Power Pivot` `Data Modeling` `KPI Development`
 
-### 🗄️ SQL
+### 🗄️ Data Engineering
 
-- Joins
-- CTEs
-- Subqueries
-- Window Functions
-- Aggregations
-- CASE Statements
-- Date & Time Analysis
-- Customer Analysis
-- Sales Analysis
-- Inventory Analysis
+`PostgreSQL` `MySQL` `SQL Server` `SSIS` `ETL` `Data Warehousing` `Star Schema`
 
-### 💼 Business Analysis
+### 🤖 AI & Automation
 
-- Business Problem Definition
-- Requirement Gathering
-- KPI Analysis
-- Trend Analysis
-- Customer Analysis
-- Sales & Profitability Analysis
-- Inventory Analysis
-- Operational Analysis
-- Business Recommendations
-
-### 🏗️ Data Engineering
-
-- SQL Server
-- SSIS
-- ETL
-- Data Warehousing
-- Fact & Dimension Tables
-- Star Schema
-- Data Transformation
-- Data Validation
-
-### 📐 Statistics
-
-- Z-Test
-- Paired t-Test
-- Independent t-Test
-- One-Way ANOVA
-- Hypothesis Testing
-- Statistical Interpretation
+`Google Gemini` `n8n` `AI Workflows` `Customer Intelligence`
 
 ---
 
-# 📊 Featured Projects
+# 🔥 Featured Work
 
-## 🤖 AI Customer Experience Intelligence
+### 🤖 AI Customer Experience Intelligence
 
-**n8n | Google Gemini | PostgreSQL | Supabase **
+**n8n × Google Gemini × PostgreSQL × Supabase**
 
-Built an AI-powered customer feedback intelligence system that automatically
-analyzes customer feedback, identifies sentiment, emotion, root cause,
-priority, churn risk, and customer intent.
+> **What if customer feedback could automatically tell you who is at risk?**
 
-### Key Features
+Built an AI-powered customer intelligence workflow that transforms unstructured customer feedback into structured business intelligence.
 
-- AI-powered customer feedback analysis
-- Sentiment and sentiment scoring
-- Category and root-cause classification
-- Customer churn-risk detection
-- Business risk scoring
-- PostgreSQL data storage
-- Automated high-risk customer email alerts
-- Data validation and cleaning
-- n8n workflow automation
+**Detects →**
+😊 Sentiment · 💭 Emotion · 🔍 Root Cause · 🎯 Intent · ⚠️ Priority · 📉 Churn Risk · 🚨 Business Risk
 
-🔗 [View Project](https://github.com/ANKITSINGH0406/ai-customer-feedback-analysis)
+**Also includes:**
 
-## 🏥 Hospital Emergency Room Analytics Dashboard
+* AI-powered feedback analysis
+* Automated data validation
+* PostgreSQL storage
+* Risk scoring
+* High-risk customer email alerts
+* End-to-end n8n automation
 
-**Microsoft Excel | Power Query | Power Pivot | DAX**
-
-Built an interactive Hospital Emergency Room dashboard to analyze patient volume, waiting time, patient satisfaction, admission outcomes, timeliness, demographics, and department referrals.
-
-### Key Areas
-
-- Patient volume analysis
-- Average waiting time
-- Patient satisfaction
-- Admission analysis
-- Patient attendance / timeliness
-- Age-group analysis
-- Gender analysis
-- Department referrals
-- Daily performance trends
-- Interactive year and month filters
-- Power Query data preparation
-- Power Pivot data modeling
-- DAX calculations
-
-### Business Focus
-
-The project transforms raw emergency-room data into a management-ready reporting solution to help identify operational trends and areas requiring attention.
-
-**[View Project](https://github.com/ANKITSINGH0406/hospital-emergency-room-dashboard)**
+🔗 **[Explore Project →](https://github.com/ANKITSINGH0406/ai-customer-feedback-analysis)**
 
 ---
 
-## 🏆 Retail Vendor Performance & Inventory Optimization
+### 🏥 Hospital Emergency Room Analytics
 
-**Python | SQL | Power BI**
+**Excel × Power Query × Power Pivot × DAX**
 
-Analyzed vendor performance, profitability, inventory turnover, purchasing patterns, supplier concentration, and bulk purchasing behavior.
+> **Turning hospital operations data into actionable performance insights.**
 
-### Key Areas
+Interactive dashboard analyzing:
 
-- Vendor performance
-- Profitability analysis
-- Inventory optimization
-- Bulk purchasing analysis
-- Pareto analysis
-- Statistical validation
-- Supplier concentration
-- Business recommendations
+📌 Patient Volume
+⏱️ Waiting Time
+😊 Patient Satisfaction
+🏥 Admissions
+👥 Demographics
+📅 Daily & Monthly Trends
+🏷️ Department Referrals
+⚡ Patient Timeliness
 
-**[View Project](https://github.com/ANKITSINGH0406/Retail-Vendor-Performance-Inventory-Optimization-Analysis)**
-
----
-
-## 📈 Northwind Traders Sales Analytics Dashboard
-
-**Power BI | DAX | Power Query | Data Modeling**
-
-Built an interactive sales analytics dashboard to analyze revenue, orders, products, customers, and monthly sales trends.
-
-### Key Areas
-
-- Sales KPIs
-- Revenue analysis
-- Monthly trends
-- Product analysis
-- Customer analysis
-- Star schema
-- DAX measures
-- Power Query
-- Interactive dashboard
-
-**[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Sales-Dashboard)**
+🔗 **[Explore Project →](https://github.com/ANKITSINGH0406/hospital-emergency-room-dashboard)**
 
 ---
 
-## 🛒 Zepto E-Commerce SQL Analysis
+### 🏆 Retail Vendor Performance & Inventory Optimization
 
-**PostgreSQL | SQL**
+**Python × SQL × Power BI × Statistics**
 
-Performed end-to-end SQL analysis of e-commerce inventory data to identify pricing, discount, stock, and revenue opportunities.
+> **Finding where profitability, purchasing, and inventory performance intersect.**
 
-### Key Areas
+Analyzed:
 
-- Data cleaning
-- Inventory analysis
-- Pricing analysis
-- Discount analysis
-- Stock availability
-- Revenue analysis
-- Business opportunities
+📦 Inventory Turnover
+💰 Profitability
+🏪 Vendor Performance
+📊 Pareto Analysis
+🛒 Bulk Purchasing
+🔗 Supplier Concentration
+📐 Statistical Validation
 
-**[View Project](https://github.com/ANKITSINGH0406/zepto_sql_data_analysis_project)**
-
----
-
-## 🍜 Danny's Diner SQL Case Study
-
-**SQL**
-
-Analyzed customer purchasing behavior, restaurant visits, menu preferences, membership behavior, and loyalty points.
-
-### SQL Concepts
-
-- JOINs
-- CTEs
-- CASE WHEN
-- RANK
-- ROW_NUMBER
-- Window Functions
-- Aggregations
-- Date Analysis
-- Customer Segmentation
-
-**[View Project](https://github.com/ANKITSINGH0406/dannys-diner-sql-case-study)**
+🔗 **[Explore Project →](https://github.com/ANKITSINGH0406/Retail-Vendor-Performance-Inventory-Optimization-Analysis)**
 
 ---
 
-## 🏗️ Northwind Data Warehouse & ETL
+### 📈 Northwind Traders Sales Intelligence
 
-**SQL Server | SSIS | Data Warehousing**
+**Power BI × DAX × Power Query × Data Modeling**
 
-Designed and implemented a dimensional data warehouse and ETL pipeline using Northwind data.
+> **From transactions to a complete sales intelligence dashboard.**
 
-### Key Areas
+Built an interactive BI solution covering:
 
-- Fact & Dimension Tables
-- Star Schema
-- ETL
-- Data Transformation
-- SQL Validation
-- Data Warehouse Design
-- Data Integration
+💰 Revenue · 🛒 Orders · 📦 Products · 👥 Customers · 📅 Trends · 🎯 KPIs
 
-**[View Project](https://github.com/ANKITSINGH0406/Northwind-Traders-Data-Warehouse-ETL)**
+Featuring a structured **Star Schema**, reusable **DAX measures**, and interactive reporting.
+
+🔗 **[Explore Project →](https://github.com/ANKITSINGH0406/Northwind-Traders-Sales-Dashboard)**
 
 ---
 
-## 📊 Statistical Analysis Using Excel
+# 🗂️ More Projects
 
-**Microsoft Excel | Statistics**
+| Project                          | Focus                        | Tools             |
+| -------------------------------- | ---------------------------- | ----------------- |
+| 🛒 **Zepto E-Commerce Analysis** | Pricing, inventory & revenue | PostgreSQL, SQL   |
+| 🍜 **Danny's Diner**             | Customer & loyalty analytics | SQL               |
+| 🏗️ **Northwind Data Warehouse** | ETL & dimensional modeling   | SQL Server, SSIS  |
+| 📊 **Statistical Analysis**      | Hypothesis testing           | Excel, Statistics |
+| 📞 **Telecom Churn Analysis**    | Customer churn & behavior    | Python            |
+| 🌍 **Global Layoffs Analysis**   | Industry & time trends       | SQL               |
+| 🧹 **Layoffs Data Cleaning**     | Data preparation             | MySQL             |
+| 📱 **Mobile Sales Dashboard**    | Sales & city analysis        | Power BI          |
 
-Applied statistical hypothesis-testing techniques using Excel to evaluate business and analytical scenarios.
+### 🔗 Explore All My Projects
 
-### Techniques
-
-- Z-Test
-- Paired t-Test
-- Independent t-Test
-- One-Way ANOVA
-- Hypothesis Testing
-- Statistical Interpretation
-
-**[View Project](https://github.com/ANKITSINGH0406/statistical-tests-excel)**
-
----
-
-## 📞 Customer Churn Analysis – Telecom
-
-**Python | Jupyter Notebook | Data Analysis**
-
-Analyzed telecom customer churn to identify customer behavior and factors associated with churn.
-
-### Key Areas
-
-- Customer churn
-- Customer behavior
-- Exploratory analysis
-- Data visualization
-- Business insights
-
-**[View Project](https://github.com/ANKITSINGH0406/CUSTOMER-CHURN-OF-TELECOM)**
+**[📂 Visit My GitHub Repositories →](https://github.com/ANKITSINGH0406?tab=repositories)**
 
 ---
 
-## 🌍 Global Layoffs SQL Data Analysis
+# 💼 Business Problems I Love Solving
 
-**SQL**
+🔎 **What is happening?**
+→ Exploratory & descriptive analytics
 
-Performed exploratory analysis of a global layoffs dataset to identify trends across industries, countries, companies, and time periods.
+📈 **Why is it happening?**
+→ Root-cause & statistical analysis
 
-### Key Areas
+🎯 **What should we do next?**
+→ Business insights & recommendations
 
-- Industry analysis
-- Country analysis
-- Company-level analysis
-- Rolling layoffs trends
-- Time-series analysis
-- Exploratory Data Analysis
+📊 **How do we monitor it?**
+→ KPIs & interactive dashboards
 
-**[View Project](https://github.com/ANKITSINGH0406/global-layoffs-sql-data-analysis)**
-
----
-
-## 🧹 World Layoffs SQL Data Cleaning
-
-**MySQL | SQL**
-
-Performed data cleaning and preparation on a global layoffs dataset before analytical processing.
-
-### Key Areas
-
-- Duplicate removal
-- Data standardization
-- NULL handling
-- Data validation
-- Data preparation
-- SQL transformations
-
-**[View Project](https://github.com/ANKITSINGH0406/world_layoffs_data_sql_cleaning)**
+🤖 **Can we automate it?**
+→ AI & workflow automation
 
 ---
 
-## 📊 Mobile Sales Dashboard
+# 📐 My Analytics Philosophy
 
-**Power BI | Data Visualization**
+> ### **Data → Insight → Action → Impact**
 
-Built an interactive Power BI dashboard analyzing mobile sales across Indian cities.
+I believe a great dashboard isn't just about beautiful charts.
 
-### Key Areas
+A great analytical solution should answer:
 
-- Sales analysis
-- Transactions
-- Payment methods
-- Customer ratings
-- Monthly sales trends
-- City-level analysis
-- Interactive dashboard
+**“So what?”**
 
-**[View Project](https://github.com/ANKITSINGH0406/PowerBI-Mobile-Sales-Dashboard)**
+That's why I focus on connecting **data analysis with actual business decisions**.
 
 ---
 
-# 🎯 What I Can Do
+# 🌱 Currently Exploring
 
-✔ Analyze business data using SQL
-
-✔ Clean and transform datasets
-
-✔ Build interactive Power BI dashboards
-
-✔ Develop Excel dashboards
-
-✔ Create KPI reports
-
-✔ Build analytical data models
-
-✔ Perform customer and sales analysis
-
-✔ Analyze profitability and inventory
-
-✔ Perform statistical analysis
-
-✔ Identify business trends
-
-✔ Translate data into actionable recommendations
-
-✔ Communicate insights through data visualization
+🔹 Advanced SQL
+🔹 Advanced Power BI & DAX
+🔹 Python for Analytics
+🔹 Business Analysis
+🔹 Statistics & Hypothesis Testing
+🔹 Data Storytelling
+🔹 Data Modeling
+🔹 Business Intelligence
+🔹 AI-Powered Analytics
+🔹 Workflow Automation
 
 ---
 
-# 📚 Currently Improving
+# 🎯 Career Focus
 
-- Advanced SQL
-- Power BI & DAX
-- Python for Data Analytics
-- Business Analysis
-- Statistics
-- Data Storytelling
-- Data Modeling
-- Business Intelligence
+I'm building expertise toward roles in:
 
----
+**📊 Data Analytics**
+**💼 Business Analysis**
+**📈 Business Intelligence**
+**🤖 AI & Analytics**
 
-# 🏆 My Analytics Approach
+My goal is simple:
 
-I follow an end-to-end analytical approach:
-
-```text
-Business Problem
-       ↓
-Requirement Gathering
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-Data Modeling
-       ↓
-SQL / Python / DAX Analysis
-       ↓
-KPI Development
-       ↓
-Dashboard & Visualization
-       ↓
-Business Insights
-       ↓
-Recommendations
-```
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ankit-singh-mahar-0a5bb824b/
-- 📧 Email: ankitmahar0406@gmail.com
-- 💻 GitHub: https://github.com/ANKITSINGH0406
+> **Build analytical solutions that don't just explain the past — but help businesses make better decisions for the future.**
 
 ---
 
-⭐ Feel free to explore my projects and repositories.
+# 🤝 Let's Connect
+
+If you're interested in **Data Analytics, Business Intelligence, AI, or solving interesting business problems with data**, let's connect.
+
+💼 **[LinkedIn](https://www.linkedin.com/in/ankit-singh-mahar-0a5bb824b/)**
+
+📧 **[Email Me](mailto:ankitmahar0406@gmail.com)**
+
+💻 **[GitHub](https://github.com/ANKITSINGH0406)**
+
+---
+
+### ⭐ If you find my projects useful, consider giving them a star!
+
+**Thanks for stopping by! 🚀**
+
+`Analyze. Visualize. Understand. Decide.`
